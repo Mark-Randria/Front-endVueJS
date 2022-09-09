@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\vue-project"
+		},
+		{
+			"path": "D:\\Projet PHP\\material-dashboard-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "material-dashboard-master"
+	}
+}
