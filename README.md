@@ -18,3 +18,5 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# Front-endVueJS" 
+
+connect this with the Back-end NodeJS to work
